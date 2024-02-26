@@ -14,6 +14,7 @@ const funcaoTeste2 = (
 };
 
 funcaoTeste2(523, 32, funcaoCallback);
+
 funcaoTeste2(43, 32, (x: number) => {
    console.log("outra função " + x);
 });
