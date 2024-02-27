@@ -25,7 +25,7 @@ const funcao = (validacao: boolean): Carro | Bicicleta | Outro => {
    }
 
    return {
-      //   rodas: 4,
+      rodas: 4,
       endereco: "fdsfs",
    };
 };
